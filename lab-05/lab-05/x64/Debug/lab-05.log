@@ -1,0 +1,6 @@
+﻿  file.c
+C:\Users\User\source\repos\lab-05\lab-05\file.c(29,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\lab-05\lab-05\file.c(48,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\lab-05\lab-05\file.c(50,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\lab-05\lab-05\file.c(52,35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  lab-05.vcxproj -> C:\Users\User\source\repos\lab-05\x64\Debug\lab-05.exe
